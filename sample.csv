@@ -1,0 +1,4 @@
+First Name,Last Name,Date of Birth,Address line 1,Address line 2,City,Province,Postal Code,Phone Number,Alternate Phone Number,Email Address,Patient ID,Diem Intergration,Store ID
+Fake Primary,Smith,1970-01-01,1 Sesame Street,,London,Sesame Street Land,ON1 1ON,+1233211234,+1-6-430-666-7248,simon@gmail.com,223112,,
+Fake Alt,Jones,1970-01-01,2 Sesame Street,,London,Sesame Street Land,ON1 1ON,+1-6-430-666-7248,+1233211234,sesamestreet@gmail.com,232211,,
+Real Test,User,1960-01-01,3 Sesame Street,,London,Sesame Street Land,ON1 1ON,+1-8-739-275-0846,+1-0-323-896-1095,realuser@gmail.com,3321,,
